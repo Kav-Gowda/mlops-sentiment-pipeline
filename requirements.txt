@@ -1,0 +1,13 @@
+# Core ML & NLP libraries
+torch>=2.1
+transformers>=4.41,<5
+datasets>=2.20
+
+# API & deployment
+fastapi
+uvicorn
+pydantic==2.*
+
+# Notebook & environment
+jupyter
+colab
